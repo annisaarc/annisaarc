@@ -13,13 +13,6 @@
 
 ---
 
-### 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,php,laravel,git,github,mysql" />
-</p>
-
----
-
 ### 📊 Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=annisaarc&show_icons=true&theme=rose_pine&hide_border=true" height="150"/>
