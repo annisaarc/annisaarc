@@ -13,18 +13,6 @@
 
 ---
 
-### 📊 Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=annisaarc&show_icons=true&theme=rose_pine&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annisaarc&layout=compact&theme=rose_pine&hide_border=true" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=annisaarc&theme=rose_pine&hide_border=true" height="150"/>
-</p>
-
----
-
 ### 🌸 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/annisarachmayani/"><img src="https://img.shields.io/badge/LinkedIn-%23F3C6D2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
