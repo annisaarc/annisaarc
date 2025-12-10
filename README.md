@@ -8,7 +8,6 @@
 
 ### 🌟 About Me
 - 📚 Learning **Cloud Technology**, **Computer Vision**, **Web Development**  
-- 🎯 Aiming to grow as a **full-stack developer**  
 - 🌏 Based in **Indonesia**  
 
 ---
